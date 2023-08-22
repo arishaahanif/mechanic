@@ -103,8 +103,10 @@ body{
     height:100vh; 
  }
 .tab {
-  position: relative;
-  top: 150px !important;
+  /* position: relative;
+  top: 150px !important; */
+  padding: 27px 0px;
+
 }
 .car_head {
   font-size: 50px;
